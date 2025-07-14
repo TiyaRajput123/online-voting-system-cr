@@ -24,11 +24,10 @@ This project presents a machine learning-based solution to predict the **most su
 
 ##  Folder Structure
 
-Online-Voting-System-CR/
-│
-├── Online_Voting_System_For_CR.ipynb # Jupyter Notebook with full code and outputs
-├── DataSet1_final.csv # Cleaned and labeled student feedback dataset
-├── README.md # This file
+Online-Voting-System-CR
+── Online_Voting_System_For_CR.ipynb # Jupyter Notebook with full code and outputs
+── DataSet1_final.csv # Cleaned and labeled student feedback dataset
+── README.md # This file
 
 
 ##  How to Run
