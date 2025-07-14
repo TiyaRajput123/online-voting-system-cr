@@ -5,7 +5,7 @@ This project presents a machine learning-based solution to predict the **most su
 
 -  **Objective**: Predict the best CR candidate using student feedback
 -  **Tech Stack**: Python, Jupyter Notebook, pandas, scikit-learn
--  **Dataset**: Contains over 580+ records of student opinions and preferences
+-  **Dataset**: Contains over 560+ records of student opinions and preferences
 
 ##  Machine Learning Models Used
 
