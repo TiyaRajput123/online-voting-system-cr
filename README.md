@@ -1,5 +1,6 @@
 # Online Voting System for CR of a Class
 This project presents a machine learning-based solution to predict the **most suitable Class Representative (CR)** using student feedback and voting patterns. Multiple classification algorithms are trained and evaluated on real student data to determine the most accurate predictor.
+-----
 
 ##  Project Highlights
 
