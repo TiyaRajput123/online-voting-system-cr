@@ -21,8 +21,7 @@ This project presents a machine learning-based solution to predict the **most su
 -  Accuracy Score
 -  Confusion Matrix
 -  Classification Report
-
-
+-  
 ##  Folder Structure
 
 Online-Voting-System-CR
